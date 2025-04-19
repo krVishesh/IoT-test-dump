@@ -1,6 +1,13 @@
 # IoT Test Suite
 
-This repository contains a collection of test scripts for various IoT components and sensors. The tests are organized into different categories based on their functionality.
+This repository contains a collection of MicroPython test scripts for various IoT components and sensors, specifically designed for ESP32 microcontrollers. The tests are organized into different categories based on their functionality.
+
+## Development Environment
+
+- **IDE**: Thonny IDE
+- **Language**: MicroPython
+- **Target Hardware**: ESP32 microcontrollers (various variants)
+- **Purpose**: Test scripts for verifying hardware functionality and component integration
 
 ## Directory Structure
 
@@ -13,9 +20,10 @@ This repository contains a collection of test scripts for various IoT components
 
 ## Requirements
 
-- Python 3.x
+- Thonny IDE
+- MicroPython firmware for ESP32
 - Various hardware components as specified in each test file
-- Required Python packages (listed in individual README files)
+- Required MicroPython packages (listed in individual README files)
 
 ## Usage
 
